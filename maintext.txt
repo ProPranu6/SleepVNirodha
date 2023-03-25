@@ -1,2 +1,5 @@
 This is to just test the workings of the git merge command. This forms the first commit of a series of 2 commints on local repository
 This second line corresponds to the second commit
+=======
+This corresponds to the first commit on the remote branch
+
