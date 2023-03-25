@@ -14,8 +14,8 @@ In addition to this robust preprocessing pipeline, the project leverages the sta
 
 The repository includes the following files:
 
-1. `Code`: This file contains the code for the four-stage preprocessing pipeline and the EEGNet model predictions.
+1. `Code`: This folder contains the code for the four-stage preprocessing pipeline and the EEGNet model predictions.
 
-2. `Data`: This file contains the raw and preprocessed eeg file data.
+2. `Reports`: This folder contains the reports of the research project.
 
 3. `README.md`: This file provides an overview of the project and its contents.
